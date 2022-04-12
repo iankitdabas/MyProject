@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject-6575.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Critter.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\FirstProject_GameMode_Base.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Floaters.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MainCharacter.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyObject.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Critter.gen.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\FirstProject_GameMode_Base.gen.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Floaters.gen.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MainCharacter.gen.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyObject.gen.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Default.rc2.res"
+/OUT:"D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-6575.lib"

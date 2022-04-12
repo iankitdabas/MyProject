@@ -1,0 +1,3 @@
+D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\Unreal engine\MyProject\Source\MyProject\Floaters.h
+D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\Floaters.generated.h

@@ -1,0 +1,7 @@
+D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\Unreal engine\MyProject\Source\MyProject\FirstProject_GameMode_Base.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal engine\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\FirstProject_GameMode_Base.generated.h
