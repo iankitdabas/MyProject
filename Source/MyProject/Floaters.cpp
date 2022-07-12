@@ -17,7 +17,7 @@ AFloaters::AFloaters()
 	WorldOrigin = FVector(0.0f, 0.0f, 0.0f);
 	InitialDirection = FVector(0.0f, 0.0f, 0.0f);
 
-	bInitializeFloaterLocations = false;
+	bInitializeFloaterLocation = false;
 	bShouldFloat = false;
 
 	InitialForce = FVector(0.0f, 0.0f, 0.0f);
@@ -52,7 +52,7 @@ void AFloaters::BeginPlay()
 
 	PlacedLocation = GetActorLocation();
 
-	if (bInitializeFloaterLocations)
+	if (bInitializeFloaterLocation)
 	{
 		SetActorLocation(InitialLocation);
 	}

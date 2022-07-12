@@ -36,7 +36,7 @@ public:
 		bool bShouldFloat;
 
 		UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Floater Variables")
-		bool bInitializeFloaterLocations;
+		bool bInitializeFloaterLocation;
 
 		UPROPERTY(BlueprintReadWrite, EditInstanceOnly, Category = "Floater Variables")
 		FVector InitialForce;
